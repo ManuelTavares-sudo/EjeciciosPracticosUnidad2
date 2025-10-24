@@ -1,6 +1,7 @@
 <h1 align="center">Estructura de Datos — Unidad 2 </h1>
 
 ## Ejercicios Practicos
+## Repositorio creado por Manuel Tavares
 
 | Nº | Actividad |
 |:--:|:-----------|
