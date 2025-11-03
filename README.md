@@ -14,4 +14,12 @@
 # Pilas y Colas
 | Nº | Actividades de Pilas y Colas | Evidencia |
 |:--:|:-----------|:--:|
-| 1 |  |  |
+| 1 | Pilas -- Simulacion Simple de Pila | [Archivo](./SimulacionPilaBasica.java) |
+| 2 | Pilas -- Pila de Nombres | [Archivo](./PilaDeNombres.java) |
+| 3 | Pilas -- Verificar si una Pila esta vacia | [Archivo](./VerificarPilaVacia.java) |
+| 4 | Pilas -- Invertir una palabra | [Archivo](./InvertirPalabraConPila.java) |
+| 5 | Pilas -- Decimal a Binario | [Archivo](./DecimalABinarioConPila.java) |
+| - | ------------ | ---- |
+| 6 | Colas -- Comparacion de Colas | [Archivo](./CompararColas.java) |
+| 7 | Colas -- Simulacion de Supoermercado con carritos y cajas | [Clase Cliente](./ClienteSupermercado.java) [Principal](./SupermercadoSimulacion.java) |
+| 8 | Colas -- Simulacion de atencion al cliente en Supermercado Aurora | [Clase Cliente](./ClienteAtencion.java) [Clase Caja](./CajaSupermercado.java) [Principal](./SimulacionSupermercadoEsperanza.java) |
